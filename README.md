@@ -21,11 +21,10 @@ This project integrates the **OpenWeather API** to provide **real-time weather u
 ---
 
 ## 📷 Screenshots
-| Home Page | Weather Results |
-|-----------|-----------------|
-| (<img width="751" height="797" alt="image" src="https://github.com/user-attachments/assets/75792005-f7da-4b6b-b93b-e77f5b0af2d7" />
-) | ![Weather Result](<img width="751" height="799" alt="image" src="https://github.com/user-attachments/assets/a47c835a-0fad-4ec2-900f-9342e246873a" />
-) |
+<p align="center">
+  <img src="./assets/home.png" alt="Home Page" width="400" />
+  <img src="https://github.com/user-attachments/assets/c0075691-56de-469d-a045-ab177c62ef26" alt="Weather Result" width="400" />
+</p>
 
 
 ## ⚙️ Setup Instructions

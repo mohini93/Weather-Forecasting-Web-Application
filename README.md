@@ -23,8 +23,9 @@ This project integrates the **OpenWeather API** to provide **real-time weather u
 ## 📷 Screenshots
 | Home Page | Weather Results |
 |-----------|-----------------|
-| ![Home](<img width="751" height="797" alt="image" src="https://github.com/user-attachments/assets/75792005-f7da-4b6b-b93b-e77f5b0af2d7" />
-) | ![Weather Result](./assets/result.png) |
+| (<img width="751" height="797" alt="image" src="https://github.com/user-attachments/assets/75792005-f7da-4b6b-b93b-e77f5b0af2d7" />
+) | ![Weather Result](<img width="751" height="799" alt="image" src="https://github.com/user-attachments/assets/a47c835a-0fad-4ec2-900f-9342e246873a" />
+) |
 
 
 ## ⚙️ Setup Instructions
